@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.04c9a15d.chunk.css",
-    "main.js": "/resume/static/js/main.29b46edd.chunk.js",
-    "main.js.map": "/resume/static/js/main.29b46edd.chunk.js.map",
-    "runtime-main.js": "/resume/static/js/runtime-main.074697b7.js",
-    "runtime-main.js.map": "/resume/static/js/runtime-main.074697b7.js.map",
+    "main.css": "/resume/static/css/main.6cfe6deb.chunk.css",
+    "main.js": "/resume/static/js/main.0e097f69.chunk.js",
+    "main.js.map": "/resume/static/js/main.0e097f69.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.fd2a888e.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.fd2a888e.js.map",
     "static/css/2.da20eac2.chunk.css": "/resume/static/css/2.da20eac2.chunk.css",
-    "static/js/2.a3bbfcba.chunk.js": "/resume/static/js/2.a3bbfcba.chunk.js",
-    "static/js/2.a3bbfcba.chunk.js.map": "/resume/static/js/2.a3bbfcba.chunk.js.map",
-    "static/js/3.234e1df7.chunk.js": "/resume/static/js/3.234e1df7.chunk.js",
-    "static/js/3.234e1df7.chunk.js.map": "/resume/static/js/3.234e1df7.chunk.js.map",
+    "static/js/2.0b851307.chunk.js": "/resume/static/js/2.0b851307.chunk.js",
+    "static/js/2.0b851307.chunk.js.map": "/resume/static/js/2.0b851307.chunk.js.map",
+    "static/js/3.7cc1a142.chunk.js": "/resume/static/js/3.7cc1a142.chunk.js",
+    "static/js/3.7cc1a142.chunk.js.map": "/resume/static/js/3.7cc1a142.chunk.js.map",
     "index.html": "/resume/index.html",
     "static/css/2.da20eac2.chunk.css.map": "/resume/static/css/2.da20eac2.chunk.css.map",
-    "static/css/main.04c9a15d.chunk.css.map": "/resume/static/css/main.04c9a15d.chunk.css.map",
-    "static/js/2.a3bbfcba.chunk.js.LICENSE.txt": "/resume/static/js/2.a3bbfcba.chunk.js.LICENSE.txt",
+    "static/css/main.6cfe6deb.chunk.css.map": "/resume/static/css/main.6cfe6deb.chunk.css.map",
+    "static/js/2.0b851307.chunk.js.LICENSE.txt": "/resume/static/js/2.0b851307.chunk.js.LICENSE.txt",
     "static/media/avatar-red.b151ef58.svg": "/resume/static/media/avatar-red.b151ef58.svg",
+    "static/media/check.e799eb39.svg": "/resume/static/media/check.e799eb39.svg",
     "static/media/man3_t2.235ead35.png": "/resume/static/media/man3_t2.235ead35.png",
     "static/media/material-icons.css": "/resume/static/media/material-icons.a7d6a198.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.074697b7.js",
+    "static/js/runtime-main.fd2a888e.js",
     "static/css/2.da20eac2.chunk.css",
-    "static/js/2.a3bbfcba.chunk.js",
-    "static/css/main.04c9a15d.chunk.css",
-    "static/js/main.29b46edd.chunk.js"
+    "static/js/2.0b851307.chunk.js",
+    "static/css/main.6cfe6deb.chunk.css",
+    "static/js/main.0e097f69.chunk.js"
   ]
 }
